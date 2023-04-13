@@ -16,7 +16,7 @@
 <li>Jupyter Notebook com a limpeza dos dados, as análises e comentários</li>
 </p>
 
-<p align= "justify"><b>Analistas de Dados:</b></p>
+<p align= "justify"><b>Cientistas de Dados:</b></p>
 <li><a href= https://github.com/polinhobr>Paulo Mota(Coordenador de Dados)</a></li>
 
-<li><a href= https://github.com/SamanthaReiis>Samantha Reis(Cientista de Dados)</a></li>
+<li><a href= https://github.com/SamanthaReiis>Samantha Reis</a></li>
