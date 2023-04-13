@@ -20,3 +20,8 @@
 <li><a href= https://github.com/polinhobr>Paulo Mota(Coordenador de Dados)</a></li>
 
 <li><a href= https://github.com/SamanthaReiis>Samantha Reis</a></li>
+<p><br></p>
+<p align= "justify"><b>Licença</b></p>
+<p align= "justify">Ao compartilhar este projeto cite os desenvolvedores!
+Os dados e scripts podem ser usados e melhorados por qualquer pessoa! Licença MIT
+Gostou desse projeto? Acesse o site do <a href = https://datalabe.org/>data_labe</a> para ver outros projetos.</p>
