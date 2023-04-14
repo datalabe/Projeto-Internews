@@ -5,10 +5,10 @@
 
 <p><br></p>
 
-<p><h3 align= "center"> Como é a relação das pessoas negras LGBT+ com a informação no município do Rio de Janeiro?</h3></p>
+<p><h3 align= "center"> Como é a relação das pessoas negras LGBTQIAP+ com a informação no município do Rio de Janeiro?</h3></p>
 <p><br></p>
 
-<p align= "justify">O <a href = https://datalabe.org/>data_labe</a> em parceria com a <a href = https://internews.org/>INTERNEWS</a> criaram a Pesquisa EXPLANA!,com foco em pessoas negras LGBT+. Onde o principal objetivo é avaliar o ecossistema da informação no município do Rio de Janeiro, ou seja como essas pessoas acessam a informação e quais as áreas e canais escolhidos para o acesso</p>
+<p align= "justify">O <a href = https://datalabe.org/>data_labe</a> em parceria com a <a href = https://internews.org/>INTERNEWS</a> criaram a Pesquisa EXPLANA!,com foco em pessoas negras LGBTQIAP+. Onde o principal objetivo é avaliar o ecossistema da informação no município do Rio de Janeiro, ou seja como essas pessoas acessam a informação e quais as áreas e canais escolhidos para o acesso</p>
  <p align= "justify">Na coleta de dados foram aplicados questionários e realizados grupos focais.</p>
  <p align= "justify"><b>Neste repositório você encontra:</b></p>
 <p>
