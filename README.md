@@ -1,7 +1,7 @@
 <p align= "center"><img src = https://img.shields.io/badge/Python-100%25-lightgrey</img><img src = https://img.shields.io/badge/license-MIT-green</img></p>
 
 
-<h1 align= "center">Projeto Internews</h1>
+<h1 align= "center">Projeto-IEA-NEGRES-LGBTQIAP+</h1>
 
 <p><br></p>
 
